@@ -1,0 +1,11 @@
+doxygen/doxygen_new_line_after_brief=true
+doxygen/doxygen_use_brief_tag=false
+doxygen/doxygen_use_javadoc_tags=true
+doxygen/doxygen_use_pre_tag=false
+doxygen/doxygen_use_structural_commands=false
+eclipse.preferences.version=1
+environment/project/de.marw.cmake.cdt.lsp.config.debug.91913061/CUDACXX/delimiter=\:
+environment/project/de.marw.cmake.cdt.lsp.config.debug.91913061/CUDACXX/operation=append
+environment/project/de.marw.cmake.cdt.lsp.config.debug.91913061/CUDACXX/value=/usr/local/cuda-11.3/bin/nvcc
+environment/project/de.marw.cmake.cdt.lsp.config.debug.91913061/append=true
+environment/project/de.marw.cmake.cdt.lsp.config.debug.91913061/appendContributed=true
